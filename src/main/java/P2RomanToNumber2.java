@@ -6,7 +6,7 @@ public class P2RomanToNumber2 {
     static {
         romanMap = new HashMap<>();
         romanMap.put("I", 1);
-        romanMap.put("V", 1);
+        romanMap.put("V", 5);
         romanMap.put("X", 10);
         romanMap.put("L", 50);
         romanMap.put("C", 100);
